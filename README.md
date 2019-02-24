@@ -1,2 +1,3 @@
 # rsschool-2019Q1-html-css
-https://www.codecademy.com/users/vitaly_mikulich/achievements
+Vitali Mikulich
+HTML CSS Basics: https://www.codecademy.com/users/vitaly_mikulich/achievements
